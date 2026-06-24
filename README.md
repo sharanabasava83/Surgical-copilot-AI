@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Global AI Surgical Copilot Ecosystem
 
 A full-stack software architecture demo for a 53-module AI-assisted surgical
@@ -144,3 +145,7 @@ This project is shared for educational and portfolio purposes. See the
 disclaimer above — do not present any part of this system as a validated
 medical product without the appropriate clinical validation and regulatory
 clearance.
+=======
+# Surgical-copilot-AI
+AI-powered Surgical Copilot platform built with Spring Boot, Java, REST APIs, JPA, MySQL, and modern software engineering practices. Features surgical workflow management, patient records, doctor management, hospital management, analytics, and AI-assisted healthcare modules for demonstration and portfolio purposes.
+>>>>>>> 09d42ee4230b5b4c81386985bcad091b7822ed74
